@@ -1,4 +1,4 @@
-# HvN Website
+# Harmony of Nederland
 
 A modern, responsive website for the Dutch community built with Next.js, Chakra UI, and TypeScript.
 
@@ -22,7 +22,7 @@ A modern, responsive website for the Dutch community built with Next.js, Chakra 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/hvn-website.git
+git clone https://github.com/MustafaTRKYLMZ/harmony_of_nederland.git
 cd hvn-website
 ```
 
