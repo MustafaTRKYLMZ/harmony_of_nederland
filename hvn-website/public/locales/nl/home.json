@@ -1,0 +1,61 @@
+{
+  "hero": {
+    "title": "Harmonie van Nederland",
+    "subtitle": "Ontdek en vier de Nederlandse cultuur",
+    "cta": {
+      "events": "Bekijk Evenementen",
+      "about": "Over Ons"
+    }
+  },
+  "features": {
+    "title": "Wat We Bieden",
+    "subtitle": "Ontdek wat Harmonie van Nederland voor u kan betekenen",
+    "events": {
+      "title": "Culturele Evenementen",
+      "description": "Ervaar authentieke Nederlandse culturele evenementen het hele jaar door"
+    },
+    "locations": {
+      "title": "Meerdere Locaties",
+      "description": "Evenementen in verschillende steden in Nederland"
+    },
+    "community": {
+      "title": "Sterke Gemeenschap",
+      "description": "Maak contact met mensen die uw passie voor Nederlandse cultuur delen"
+    },
+    "culture": {
+      "title": "Cultureel Erfgoed",
+      "description": "Behoud en vier Nederlandse tradities en gebruiken"
+    }
+  },
+  "latestEvents": {
+    "title": "Aankomende Evenementen",
+    "subtitle": "Doe mee aan onze volgende evenementen",
+    "viewMore": "Meer Details",
+    "viewAll": "Bekijk Alle Evenementen",
+    "events": {
+      "1": {
+        "title": "Amsterdam Cultureel Festival",
+        "description": "Een viering van Nederlandse kunst, muziek en tradities in het hart van Amsterdam"
+      },
+      "2": {
+        "title": "Utrecht Erfgoeddag",
+        "description": "Ontdek de rijke geschiedenis en architectuur van Utrecht"
+      },
+      "3": {
+        "title": "Rotterdam Moderne Kunst",
+        "description": "Tentoonstelling van hedendaagse Nederlandse cultuur en kunst"
+      }
+    }
+  },
+  "pastEvents": {
+    "title": "Afgelopen Evenementen",
+    "subtitle": "Bekijk onze vorige evenementen",
+    "viewAll": "Bekijk Alle Afgelopen Evenementen"
+  },
+  "cta": {
+    "title": "Klaar om mee te doen?",
+    "subtitle": "Word lid van onze gemeenschap en vier de Nederlandse cultuur",
+    "contact": "Neem Contact Op",
+    "explore": "Verken Evenementen"
+  }
+}

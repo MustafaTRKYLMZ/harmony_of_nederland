@@ -1,0 +1,87 @@
+{
+  "title": "Over HvN",
+  "subtitle": "Bruggen bouwen tussen culturen en gemeenschappen in Nederland",
+  "partnership": {
+    "text": "Het Harmony of Nederland project is een gezamenlijk initiatief van de",
+    "sanat": "Stichting S.A.N.A.T",
+    "sanatUrl": "https://stichtingsanat.nl",
+    "and": "en de",
+    "freedom": "Stichting Freedom Combination",
+    "freedomUrl": "http://freedomcombination.com"
+  },
+  "features": {
+    "cultural": {
+      "title": "Culturele Uitwisseling",
+      "description": "We organiseren diverse culturele evenementen en activiteiten die zowel Nederlandse als internationale tradities vieren, en wederzijds begrip en waardering bevorderen."
+    },
+    "community": {
+      "title": "Gemeenschapsopbouw",
+      "description": "Een ondersteunend netwerk creëren waar mensen kunnen verbinden, ervaringen delen en duurzame vriendschappen opbouwen over culturele grenzen heen."
+    },
+    "integration": {
+      "title": "Integratie Ondersteuning",
+      "description": "Middelen en begeleiding bieden om nieuwkomers te helpen navigeren in de Nederlandse samenleving met behoud van hun culturele identiteit."
+    }
+  },
+  "slides": {
+    "cultural": {
+      "title": "Diversiteit Vieren",
+      "description": "Doe mee met het verkennen van de rijke verscheidenheid aan culturen die onze gemeenschap vormen."
+    },
+    "community": {
+      "title": "Verbindingen Bouwen",
+      "description": "Ruimtes creëren waar vriendschappen bloeien en gemeenschappen samen sterker worden."
+    },
+    "integration": {
+      "title": "Integratie Ondersteunen",
+      "description": "Nieuwkomers helpen floreren terwijl ze zowel hun erfgoed als de Nederlandse cultuur omarmen."
+    }
+  },
+  "mission": {
+    "title": "Onze Missie",
+    "description": "Een inclusieve en levendige gemeenschap creëren die culturele diversiteit viert en betekenisvolle verbindingen bevordert tussen Nederlandse locals en nieuwkomers. We streven ernaar Nederland een thuis te laten voelen voor iedereen, ongeacht hun achtergrond, door culturele uitwisseling, gemeenschapsopbouw en integratie ondersteuning.",
+    "points": [
+      "Culturele uitwisseling en wederzijds begrip faciliteren",
+      "Sterke, ondersteunende gemeenschappen bouwen",
+      "Succesvolle integratie ondersteunen met behoud van culturele identiteit",
+      "Mogelijkheden creëren voor betekenisvolle verbindingen",
+      "Diversiteit en inclusie bevorderen in de Nederlandse samenleving"
+    ]
+  },
+  "vision": {
+    "title": "Onze Visie",
+    "description": "We zien een Nederland voor ons waar culturele diversiteit wordt gevierd als een kracht, waar integratie betekent toevoegen in plaats van vervangen van iemands identiteit, en waar iedereen zich gewaardeerd en thuis voelt. Ons doel is een samenleving te creëren waar:",
+    "points": [
+      "Culturele verschillen worden gezien als kansen voor groei",
+      "Iedereen zich welkom en gewaardeerd voelt",
+      "Integratie zowel de Nederlandse samenleving als nieuwkomers verrijkt",
+      "Gemeenschappen floreren door wederzijdse ondersteuning",
+      "Tradities op natuurlijke wijze samensmelten en evolueren"
+    ]
+  },
+  "values": {
+    "title": "Onze Kernwaarden",
+    "list": [
+      {
+        "title": "Inclusiviteit",
+        "description": "Iedereen verwelkomen ongeacht hun achtergrond"
+      },
+      {
+        "title": "Authenticiteit",
+        "description": "Authentieke culturele expressie en uitwisseling aanmoedigen"
+      },
+      {
+        "title": "Gemeenschap",
+        "description": "Sterke, ondersteunende netwerken bouwen"
+      },
+      {
+        "title": "Respect",
+        "description": "Alle culturen en tradities eren"
+      },
+      {
+        "title": "Groei",
+        "description": "Persoonlijke en gemeenschapsontwikkeling ondersteunen"
+      }
+    ]
+  }
+}

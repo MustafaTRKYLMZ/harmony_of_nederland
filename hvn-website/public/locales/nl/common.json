@@ -1,0 +1,91 @@
+{
+  "nav": {
+    "home": "Home",
+    "events": "Evenementen",
+    "upcomingEvents": "Aankomende Evenementen",
+    "upcomingEventsDesc": "Zie wat er binnenkort komt",
+    "pastEvents": "Vorige Evenementen",
+    "pastEventsDesc": "Terugblik op onze eerdere evenementen",
+
+    "about": "Over Ons",
+    "community": "Gemeenschap",
+    "partners": "Partners",
+    "partnersDesc": "Onze gewaardeerde partners",
+    "sponsors": "Sponsors",
+    "sponsorsDesc": "Organisaties die ons steunen",
+    "supportUs": "Steun Ons",
+    "supportUsDesc": "Help ons het verschil te maken",
+    "contact": "Contact",
+    "aboutUs": "Over Ons",
+    "aboutUsDesc": "Leer meer over onze organisatie",
+    "support": "Steun Ons"
+  },
+  "footer": {
+    "description": "Nederlandse cultuur vieren en gemeenschapsbanden versterken",
+    "quickLinks": "Snelle Links",
+    "legal": "Juridisch",
+    "privacy": "Privacybeleid",
+    "terms": "Gebruiksvoorwaarden",
+    "cookies": "Cookiebeleid",
+    "followUs": "Volg Ons",
+    "contact": "Contact",
+    "address": "Adres",
+    "newsletter": "Nieuwsbrief",
+    "subscribe": "Abonneren",
+    "emailPlaceholder": "Voer je e-mail in",
+    "rights": "Alle rechten voorbehouden",
+    "madeWith": "Gemaakt met ",
+    "inNetherlands": "in Nederland"
+  },
+  "languages": {
+    "en": "English",
+    "nl": "Nederlands"
+  },
+  "hero": {
+    "title": "Harmonie van Nederland",
+    "subtitle": "Nederlandse Cultuur Vieren Door Evenementen"
+  },
+  "events": {
+    "upcoming": "Aankomend",
+    "buyTicket": "Koop Ticket",
+    "details": "Bekijk Details",
+    "imageNotAvailable": "Afbeelding niet beschikbaar",
+    "noEvents": "Nog geen evenementen gepland",
+    "checkBack": "Kom binnenkort terug voor aankomende evenementen!",
+    "register": "Nu Registreren",
+    "free": "Gratis",
+    "location": "Locatie",
+    "date": "Datum",
+    "time": "Tijd",
+    "capacity": "Capaciteit",
+    "requirements": "Vereisten",
+    "hero": {
+      "title": "Ontdek Onze Evenementen",
+      "subtitle": "Vier met ons de Nederlandse cultuur door unieke ervaringen"
+    }
+  },
+  "partners": {
+    "title": "Onze Partners",
+    "hero": {
+      "title": "Onze Partners",
+      "subtitle": "Samen werken aan een sterkere gemeenschap"
+    }
+  },
+
+  "support": {
+    "title": "Steun Ons",
+    "oneTime": "Eenmalige Donatie",
+    "monthly": "Maandelijkse Steun",
+    "yearly": "Jaarlijkse Steun",
+    "donate": "Doneer",
+    "subscribe": "Abonneer"
+  },
+  "common": {
+    "readMore": "Lees Meer",
+    "viewAll": "Bekijk Alles",
+    "loading": "Laden...",
+    "error": "Er is een fout opgetreden",
+    "notFound": "Niet Gevonden",
+    "retry": "Probeer opnieuw"
+  }
+}

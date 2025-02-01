@@ -1,0 +1,49 @@
+{
+  "hero": {
+    "title": "Ontdek Onze Evenementen",
+    "subtitle": "Doe mee aan onvergetelijke culturele ervaringen en vieringen",
+    "cta": {
+      "upcoming": "Bekijk Aankomende Evenementen",
+      "calendar": "Bekijk Kalender"
+    }
+  },
+  "pageTitle": "Ontdek Onze Evenementen",
+  "filters": {
+    "city": "Filter op Stad",
+    "date": "Filter op Datum",
+    "status": "Filter op Status"
+  },
+  "status": {
+    "upcoming": "Aankomend",
+    "ongoing": "Lopend",
+    "past": "Afgelopen"
+  },
+  "subtitle": "Doe mee aan onze culturele evenementen en vier de Nederlandse cultuur",
+  "viewDetails": "Bekijk Details",
+  "notFound": {
+    "title": "Evenement Niet Gevonden",
+    "message": "Het evenement dat u zoekt bestaat niet of is verwijderd.",
+    "backToEvents": "Terug naar Evenementen"
+  },
+  "eventDetails": {
+    "date": "Datum",
+    "location": "Locatie",
+    "price": "Prijs",
+    "capacity": "Capaciteit",
+    "availableTickets": "Beschikbare Tickets",
+    "soldOut": "Uitverkocht",
+    "buyTickets": "Koop Tickets",
+    "starts": "Begin",
+    "ends": "Einde",
+    "venue": "Locatie"
+  },
+  "details": {
+    "location": "Locatie",
+    "ticketInfo": "Ticket Informatie",
+    "price": "Prijs",
+    "availableTickets": "Beschikbare Tickets",
+    "buyTickets": "Koop Tickets",
+    "soldOut": "Uitverkocht",
+    "share": "Deel dit Evenement"
+  }
+}

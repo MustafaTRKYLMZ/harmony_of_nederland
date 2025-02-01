@@ -1,0 +1,87 @@
+{
+  "title": "About Harmony of Netherlands",
+  "subtitle": "Bridging cultures, building communities, and creating harmony in the Netherlands",
+  "partnership": {
+    "text": "The Harmony of Nederland project is a joint initiative of the",
+    "sanat": "S.A.N.A.T Foundation",
+    "sanatUrl": "https://stichtingsanat.nl",
+    "and": "and the",
+    "freedom": "Freedom Combination Foundation",
+    "freedomUrl": "http://freedomcombination.com"
+  },
+  "features": {
+    "cultural": {
+      "title": "Cultural Exchange",
+      "description": "We organize diverse cultural events and activities that celebrate both Dutch and international traditions, fostering mutual understanding and appreciation. From traditional festivals to modern art exhibitions, we create spaces where cultures meet and blend harmoniously."
+    },
+    "community": {
+      "title": "Community Building",
+      "description": "Creating a supportive network where people can connect, share experiences, and build lasting friendships across cultural boundaries. Our community events, workshops, and social gatherings help create meaningful connections that enrich lives."
+    },
+    "integration": {
+      "title": "Integration Support",
+      "description": "Providing resources and guidance to help newcomers navigate Dutch society while maintaining their cultural identity. We offer language exchange programs, cultural workshops, and practical support for a smooth transition into Dutch life."
+    }
+  },
+  "slides": {
+    "cultural": {
+      "title": "Celebrating Cultural Diversity",
+      "description": "Experience the vibrant mosaic of cultures through our festivals, art exhibitions, and cultural workshops that showcase the best of Dutch and international traditions."
+    },
+    "community": {
+      "title": "Building Strong Communities",
+      "description": "Join our welcoming community where friendships flourish, experiences are shared, and cultural boundaries fade away through regular meetups and social events."
+    },
+    "integration": {
+      "title": "Supporting Successful Integration",
+      "description": "Access resources and support to thrive in Dutch society while celebrating your unique cultural heritage through our comprehensive integration programs."
+    }
+  },
+  "mission": {
+    "title": "Our Mission",
+    "description": "To create an inclusive and vibrant community that celebrates cultural diversity while fostering meaningful connections between Dutch locals and newcomers. We strive to make the Netherlands feel like home for everyone, regardless of their background, through cultural exchange, community building, and integration support.",
+    "points": [
+      "Facilitate cultural exchange and mutual understanding",
+      "Build strong, supportive communities",
+      "Support successful integration while preserving cultural identity",
+      "Create opportunities for meaningful connections",
+      "Promote diversity and inclusion in Dutch society"
+    ]
+  },
+  "vision": {
+    "title": "Our Vision",
+    "description": "We envision a Netherlands where cultural diversity is celebrated as a strength, where integration means adding to rather than replacing one's identity, and where every person feels valued and at home. Our goal is to create a society where:",
+    "points": [
+      "Cultural differences are seen as opportunities for growth",
+      "Everyone feels welcome and valued",
+      "Integration enriches both Dutch society and newcomers",
+      "Communities thrive through mutual support",
+      "Traditions blend and evolve naturally"
+    ]
+  },
+  "values": {
+    "title": "Our Core Values",
+    "list": [
+      {
+        "title": "Inclusivity",
+        "description": "Welcoming everyone regardless of their background"
+      },
+      {
+        "title": "Authenticity",
+        "description": "Encouraging genuine cultural expression and exchange"
+      },
+      {
+        "title": "Community",
+        "description": "Building strong, supportive networks"
+      },
+      {
+        "title": "Respect",
+        "description": "Honoring all cultures and traditions"
+      },
+      {
+        "title": "Growth",
+        "description": "Supporting personal and community development"
+      }
+    ]
+  }
+}

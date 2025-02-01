@@ -1,0 +1,23 @@
+{
+  "hero": {
+    "title": "Our Partners",
+    "subtitle": "Working together to strengthen our community"
+  },
+  "title": "Our Partners",
+  "subtitle": "Working together to strengthen Dutch culture and community",
+  "becomePartner": "Become a Partner",
+  "visitWebsite": "Visit Website",
+  
+  "types": {
+    "cultural": "Cultural Partner",
+    "educational": "Educational Partner",
+    "commercial": "Commercial Partner",
+    "nonprofit": "Non-Profit Partner"
+  },
+
+  "cta": {
+    "title": "Join Our Network of Partners",
+    "description": "Together we can create meaningful impact and strengthen our community",
+    "button": "Contact Us"
+  }
+}

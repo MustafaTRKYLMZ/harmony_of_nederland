@@ -1,0 +1,97 @@
+{
+  "title": "Support Our Mission",
+  "subtitle": "Join us in celebrating and preserving Dutch culture through various ways of support",
+  
+  "donate": {
+    "title": "Make a Donation",
+    "description": "Your financial support helps us organize more cultural events and reach wider communities",
+    "button": "Donate Now"
+  },
+  
+  "volunteer": {
+    "title": "Become a Volunteer",
+    "description": "Share your time and skills to help make our events successful and impactful",
+    "button": "Join as Volunteer"
+  },
+  
+  "partner": {
+    "title": "Partner with Us",
+    "description": "Create meaningful partnerships that benefit both our organizations and the community",
+    "button": "Become a Partner"
+  },
+  
+  "sponsorship": {
+    "title": "Sponsorship Packages",
+    "popular": "Most Popular",
+    "select": "Select Package",
+    
+    "bronze": {
+      "name": "Bronze Sponsor",
+      "benefit1": "Logo on event materials",
+      "benefit2": "2 VIP tickets to events",
+      "benefit3": "Social media recognition"
+    },
+    
+    "silver": {
+      "name": "Silver Sponsor",
+      "benefit1": "Logo on event materials",
+      "benefit2": "4 VIP tickets to events",
+      "benefit3": "Social media recognition",
+      "benefit4": "Booth space at festivals"
+    },
+    
+    "gold": {
+      "name": "Gold Sponsor",
+      "benefit1": "Premium logo placement",
+      "benefit2": "8 VIP tickets to events",
+      "benefit3": "Featured social media content",
+      "benefit4": "Premium booth location",
+      "benefit5": "Speaking opportunity"
+    }
+  },
+  
+  "contact": {
+    "title": "Let's Discuss How You Can Help",
+    "description": "Have questions about supporting us? We'd love to hear from you and discuss the possibilities.",
+    "button": "Contact Us"
+  },
+
+  "form": {
+    "donate": {
+      "title": "Make a Donation",
+      "amount": "Donation Amount (€)",
+      "amountPlaceholder": "Enter amount"
+    },
+    "volunteer": {
+      "title": "Volunteer Application",
+      "availability": "Availability",
+      "selectAvailability": "Select your availability",
+      "weekends": "Weekends",
+      "weekdays": "Weekdays",
+      "both": "Both weekdays and weekends",
+      "skills": "Skills & Experience",
+      "skillsPlaceholder": "Tell us about your skills and relevant experience"
+    },
+    "partner": {
+      "title": "Partnership Inquiry"
+    },
+    "sponsor": {
+      "title": "Sponsorship Application"
+    },
+    "name": "Full Name",
+    "namePlaceholder": "Enter your full name",
+    "email": "Email Address",
+    "emailPlaceholder": "Enter your email address",
+    "phone": "Phone Number",
+    "phonePlaceholder": "Enter your phone number",
+    "organization": "Organization Name",
+    "organizationPlaceholder": "Enter your organization name",
+    "message": "Additional Message",
+    "messagePlaceholder": "Any additional information you'd like to share",
+    "submit": "Submit",
+    "success": "Thank you!",
+    "successMessage": "We have received your submission and will contact you soon.",
+    "error": "Error",
+    "errorMessage": "Something went wrong. Please try again later."
+  }
+}

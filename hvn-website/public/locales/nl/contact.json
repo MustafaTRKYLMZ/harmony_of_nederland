@@ -1,0 +1,29 @@
+{
+  "title": "Contact",
+  "form": {
+    "name": "Naam",
+    "namePlaceholder": "Vul uw naam in",
+    "email": "E-mail",
+    "emailPlaceholder": "Vul uw e-mailadres in",
+    "subject": "Onderwerp",
+    "subjectPlaceholder": "Vul het onderwerp in",
+    "message": "Bericht",
+    "messagePlaceholder": "Typ uw bericht",
+    "submit": "Verstuur Bericht"
+  },
+  "info": {
+    "title": "Contactgegevens",
+    "hours": "Maandag - Vrijdag: 9:00 - 17:00"
+  },
+  "social": {
+    "title": "Volg Ons"
+  },
+  "success": {
+    "title": "Bericht Verzonden",
+    "message": "Bedankt voor uw bericht. We nemen zo spoedig mogelijk contact met u op!"
+  },
+  "error": {
+    "title": "Fout",
+    "message": "Er is iets misgegaan. Probeer het later opnieuw."
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "kind": "collectionType",
+  "collectionName": "donations",
+  "info": {
+    "singularName": "donation",
+    "pluralName": "donations",
+    "displayName": "Donation",
+    "description": "Donations from supporters"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "email": {
+      "type": "email",
+      "required": true
+    },
+    "phone": {
+      "type": "string"
+    },
+    "amount": {
+      "type": "decimal",
+      "required": true,
+      "min": 0
+    },
+    "currency": {
+      "type": "string",
+      "required": true,
+      "default": "EUR"
+    },
+    "message": {
+      "type": "text"
+    },
+    "transactionId": {
+      "type": "string"
+    },
+    "status": {
+      "type": "enumeration",
+      "enum": [
+        "pending",
+        "completed",
+        "failed"
+      ],
+      "default": "pending",
+      "required": true
+    },
+    "donationType": {
+      "type": "enumeration",
+      "enum": [
+        "oneTime",
+        "monthly",
+        "annually"
+      ],
+      "required": true,
+      "default": "oneTime"
+    },
+    "anonymous": {
+      "type": "boolean",
+      "default": false
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Evenementengalerij",
+  "filters": {
+    "city": "Filter op Stad",
+    "year": "Filter op Jaar",
+    "allCities": "Alle Steden",
+    "allYears": "Alle Jaren"
+  },
+  "noImages": "Geen afbeeldingen gevonden",
+  "imageAlt": "Evenementafbeelding uit {{city}} {{year}}"
+}
