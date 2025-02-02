@@ -1,0 +1,96 @@
+{
+  "kind": "collectionType",
+  "collectionName": "events",
+  "info": {
+    "singularName": "event",
+    "pluralName": "events",
+    "displayName": "Event",
+    "description": "Events organized by Harmony of Nederland"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "text",
+      "required": true
+    },
+    "content": {
+      "type": "richtext"
+    },
+    "slug": {
+      "type": "uid",
+      "targetField": "title",
+      "required": true
+    },
+    "startDate": {
+      "type": "datetime",
+      "required": true
+    },
+    "endDate": {
+      "type": "datetime",
+      "required": true
+    },
+    "location": {
+      "type": "string",
+      "required": true
+    },
+    "eventType": {
+      "type": "enumeration",
+      "enum": [
+        "cultural",
+        "educational",
+        "social",
+        "workshop",
+        "other"
+      ],
+      "required": true
+    },
+    "status": {
+      "type": "enumeration",
+      "enum": [
+        "draft",
+        "published",
+        "cancelled"
+      ],
+      "default": "draft",
+      "required": true
+    },
+    "featured": {
+      "type": "boolean",
+      "default": false
+    },
+    "heroImage": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": ["images"]
+    },
+    "media": {
+      "type": "media",
+      "multiple": true,
+      "allowedTypes": ["images", "files", "videos"]
+    },
+    "registrationLink": {
+      "type": "string"
+    },
+    "capacity": {
+      "type": "integer",
+      "min": 0
+    },
+    "requirements": {
+      "type": "text"
+    },
+    "price": {
+      "type": "decimal",
+      "min": 0
+    },
+    "currency": {
+      "type": "string",
+      "default": "EUR"
+    }
+  }
+}
