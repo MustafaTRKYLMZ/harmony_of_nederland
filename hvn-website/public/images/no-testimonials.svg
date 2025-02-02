@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="300" fill="#F7FAFC"/>
+  
+  <!-- Speech Bubbles -->
+  <path d="M150 100 H250 A20 20 0 0 1 270 120 V160 A20 20 0 0 1 250 180 H170 L150 200 V100" fill="#FF6B35"/>
+  <path d="M180 140 H280 A20 20 0 0 1 300 160 V200 A20 20 0 0 1 280 220 H200 L180 240 V140" fill="#2196F3" fill-opacity="0.6"/>
+  
+  <!-- Question Marks -->
+  <text x="200" y="150" font-family="Arial" font-size="24" fill="white" text-anchor="middle">?</text>
+  <text x="230" y="190" font-family="Arial" font-size="24" fill="white" text-anchor="middle">?</text>
+  
+  <!-- Message -->
+  <text x="200" y="260" font-family="Arial" font-size="16" fill="#4A5568" text-anchor="middle">No testimonials yet</text>
+  <text x="200" y="280" font-family="Arial" font-size="14" fill="#718096" text-anchor="middle">Be the first to share your experience!</text>
+</svg>
