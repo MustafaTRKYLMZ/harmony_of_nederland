@@ -1,5 +1,7 @@
 # Harmony of Nederland
 
+This application was created to understand the code-writing capabilities of artificial intelligence. It was developed entirely through prompts using Codeium Cascade AI (by Codeium, a Silicon Valley-based AI company), without any manual code writing.
+
 A modern, responsive website for the Dutch community built with Next.js, Chakra UI, and TypeScript.
 
 ## Features
