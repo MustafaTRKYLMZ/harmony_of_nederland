@@ -4,14 +4,18 @@
   "info": {
     "singularName": "volunteer",
     "pluralName": "volunteers",
-    "displayName": "Volunteer",
-    "description": "Event volunteers"
+    "displayName": "Volunteer"
   },
   "options": {
     "draftAndPublish": true
   },
+  "pluginOptions": {},
   "attributes": {
-    "name": {
+    "firstName": {
+      "type": "string",
+      "required": true
+    },
+    "lastName": {
       "type": "string",
       "required": true
     },
@@ -19,56 +23,54 @@
       "type": "email",
       "required": true
     },
-    "phone": {
+    "dateOfBirth": {
+      "type": "date"
+    },
+    "address": {
       "type": "string"
     },
-    "availability": {
-      "type": "enumeration",
-      "enum": [
-        "weekends",
-        "weekdays",
-        "both"
-      ],
-      "required": true
-    },
     "skills": {
-      "type": "text",
-      "required": true
+      "type": "string"
     },
-    "photo": {
-      "type": "media",
-      "multiple": false,
-      "allowedTypes": [
-        "images"
-      ]
-    },
-    "status": {
-      "type": "enumeration",
-      "enum": [
-        "pending",
-        "active",
-        "inactive"
-      ],
-      "default": "pending",
-      "required": true
-    },
-    "events": {
-      "type": "relation",
-      "relation": "manyToMany",
-      "target": "api::event.event",
-      "inversedBy": "volunteers"
+    "interests": {
+      "type": "string"
     },
     "languages": {
-      "type": "json",
-      "required": true
+      "type": "json"
     },
-    "emergencyContact": {
-      "type": "component",
-      "component": "shared.emergency-contact",
-      "required": true
+    "volunteerStatus": {
+      "type": "enumeration",
+      "enum": [
+        "active",
+        "inactive",
+        "pending"
+      ]
     },
-    "startDate": {
-      "type": "date"
+    "volunteerType": {
+      "type": "enumeration",
+      "enum": [
+        "regular",
+        "occasional",
+        "student",
+        "professional"
+      ]
+    },
+    "availability": {
+      "type": "json"
+    },
+    "preferredTasks": {
+      "type": "json"
+    },
+    "certifications": {
+      "type": "json"
+    },
+    "photo": {
+      "allowedTypes": [
+        "images",
+        "files"
+      ],
+      "type": "media",
+      "multiple": false
     }
   }
 }

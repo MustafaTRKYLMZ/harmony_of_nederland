@@ -4,42 +4,119 @@
   "info": {
     "singularName": "event",
     "pluralName": "events",
-    "displayName": "Event",
-    "description": "Events organized by Harmony of Nederland"
+    "displayName": "Event"
   },
   "options": {
     "draftAndPublish": true
   },
+  "pluginOptions": {
+    "i18n": {
+      "localized": true
+    }
+  },
   "attributes": {
     "title": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
       "type": "string",
       "required": true
     },
     "description": {
-      "type": "text",
-      "required": true
-    },
-    "content": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
       "type": "richtext"
     },
-    "slug": {
-      "type": "uid",
-      "targetField": "title",
-      "required": true
+    "content": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "richtext"
+    },
+    "requirements": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "richtext"
     },
     "startDate": {
-      "type": "datetime",
-      "required": true
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "datetime"
     },
     "endDate": {
-      "type": "datetime",
-      "required": true
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "datetime"
     },
-    "location": {
-      "type": "string",
-      "required": true
+    "Address": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "string"
+    },
+    "heroImage": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false,
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      }
+    },
+    "media": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true,
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      }
+    },
+    "slug": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "uid",
+      "targetField": "title"
     },
     "eventType": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
       "type": "enumeration",
       "enum": [
         "cultural",
@@ -47,50 +124,67 @@
         "social",
         "workshop",
         "other"
-      ],
-      "required": true
+      ]
     },
-    "status": {
+    "featured": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "boolean",
+      "default": false
+    },
+    "registrationLink": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "string"
+    },
+    "capacity": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": false
+        }
+      },
+      "type": "integer",
+      "default": 0,
+      "min": 0
+    },
+    "price": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": false
+        }
+      },
+      "type": "decimal"
+    },
+    "currency": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "enumeration",
+      "enum": [
+        "EUR",
+        "USD"
+      ]
+    },
+    "eventStatus": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
       "type": "enumeration",
       "enum": [
         "draft",
         "published",
         "cancelled"
-      ],
-      "default": "draft",
-      "required": true
-    },
-    "featured": {
-      "type": "boolean",
-      "default": false
-    },
-    "heroImage": {
-      "type": "media",
-      "multiple": false,
-      "allowedTypes": ["images"]
-    },
-    "media": {
-      "type": "media",
-      "multiple": true,
-      "allowedTypes": ["images", "files", "videos"]
-    },
-    "registrationLink": {
-      "type": "string"
-    },
-    "capacity": {
-      "type": "integer",
-      "min": 0
-    },
-    "requirements": {
-      "type": "text"
-    },
-    "price": {
-      "type": "decimal",
-      "min": 0
-    },
-    "currency": {
-      "type": "string",
-      "default": "EUR"
+      ]
     }
   }
 }

@@ -4,63 +4,161 @@
   "info": {
     "singularName": "donation",
     "pluralName": "donations",
-    "displayName": "Donation",
-    "description": "Donations from supporters"
+    "displayName": "Donation"
   },
   "options": {
-    "draftAndPublish": false
+    "draftAndPublish": true
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": true
+    }
   },
   "attributes": {
-    "name": {
-      "type": "string",
-      "required": true
-    },
-    "email": {
-      "type": "email",
-      "required": true
-    },
-    "phone": {
-      "type": "string"
-    },
     "amount": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
       "type": "decimal",
       "required": true,
       "min": 0
     },
     "currency": {
-      "type": "string",
+      "pluginOptions": {
+        "i18n": {
+          "localized": false
+        }
+      },
+      "type": "enumeration",
+      "enum": [
+        "EUR",
+        "USD"
+      ],
       "required": true,
       "default": "EUR"
     },
+    "donorName": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": false
+        }
+      },
+      "type": "string",
+      "required": true
+    },
+    "donorEmail": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": false
+        }
+      },
+      "type": "email",
+      "required": true
+    },
+    "donationType": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": false
+        }
+      },
+      "type": "enumeration",
+      "enum": [
+        "one-time",
+        "monthly",
+        "annual"
+      ],
+      "default": "one-time"
+    },
     "message": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
       "type": "text"
     },
-    "transactionId": {
+    "project": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": false
+        }
+      },
       "type": "string"
     },
-    "status": {
+    "taxReceiptRequired": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": false
+        }
+      },
+      "type": "boolean",
+      "default": false
+    },
+    "donorAddress": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": false
+        }
+      },
+      "type": "string"
+    },
+    "donorPhone": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": false
+        }
+      },
+      "type": "string"
+    },
+    "donorCompany": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": false
+        }
+      },
+      "type": "string"
+    },
+    "anonymous": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": false
+        }
+      },
+      "type": "boolean",
+      "default": false
+    },
+    "date": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "datetime"
+    },
+    "transactionId": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": false
+        }
+      },
+      "type": "string",
+      "unique": true
+    },
+    "donationStatus": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": false
+        }
+      },
       "type": "enumeration",
       "enum": [
         "pending",
         "completed",
         "failed"
       ],
-      "default": "pending",
-      "required": true
-    },
-    "donationType": {
-      "type": "enumeration",
-      "enum": [
-        "oneTime",
-        "monthly",
-        "annually"
-      ],
-      "required": true,
-      "default": "oneTime"
-    },
-    "anonymous": {
-      "type": "boolean",
-      "default": false
+      "default": "pending"
     }
   }
 }

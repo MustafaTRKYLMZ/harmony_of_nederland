@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_shared_emergency_contacts",
+  "info": {
+    "displayName": "Emergency Contact",
+    "description": "Emergency contact information"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "relationship": {
+      "type": "string",
+      "required": true
+    },
+    "phone": {
+      "type": "string",
+      "required": true
+    },
+    "email": {
+      "type": "email"
+    },
+    "address": {
+      "type": "text"
+    }
+  }
+}
