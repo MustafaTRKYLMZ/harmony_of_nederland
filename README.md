@@ -11,6 +11,11 @@ A modern, responsive website for the Dutch community built with Next.js, Chakra 
 - 💼 Sponsor showcase
 - ♿ Accessibility focused
 
+## Project Structure
+
+- `hvn-website/` - Next.js frontend application
+- `hvn-cms/` - Strapi CMS backend
+
 ## Getting Started
 
 ### Prerequisites
@@ -18,11 +23,10 @@ A modern, responsive website for the Dutch community built with Next.js, Chakra 
 - Node.js 16.x or later
 - npm or yarn
 
-### Installation
+### Frontend Installation
 
-1. Clone the repository:
+1. Navigate to the website directory:
 ```bash
-git clone https://github.com/MustafaTRKYLMZ/harmony_of_nederland.git
 cd hvn-website
 ```
 
@@ -46,6 +50,29 @@ yarn dev
 ```
 
 5. Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+### CMS Installation
+
+1. Navigate to the CMS directory:
+```bash
+cd hvn-cms
+```
+
+2. Install dependencies:
+```bash
+npm install
+# or
+yarn install
+```
+
+3. Start the CMS:
+```bash
+npm run develop
+# or
+yarn develop
+```
+
+4. Open [http://localhost:1337/admin](http://localhost:1337/admin) in your browser.
 
 ## Testing
 
@@ -72,6 +99,7 @@ npm run start
 
 ## Tech Stack
 
+### Frontend
 - Next.js - React framework
 - TypeScript - Type safety
 - Chakra UI - Component library
@@ -79,6 +107,10 @@ npm run start
 - next-i18next - Internationalization
 - Playwright - E2E testing
 - Jest - Unit testing
+
+### Backend
+- Strapi - Headless CMS
+- SQLite - Database
 
 ## Contributing
 
