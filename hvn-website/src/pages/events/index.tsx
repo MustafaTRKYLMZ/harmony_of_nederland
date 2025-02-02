@@ -50,11 +50,13 @@ export default function EventsPage({ events, pagination }: EventsPageProps) {
             overflow="hidden"
           >
             <Image
-              src="/images/event-hero.jpg"
+              src="/images/hero.jpg"
               alt="HvN Cultural Festival"
-              layout="fill"
-              objectFit="cover"
-              objectPosition="center center"
+              fill
+              style={{
+                objectFit: 'cover',
+                objectPosition: 'center'
+              }}
               priority
               quality={90}
             />

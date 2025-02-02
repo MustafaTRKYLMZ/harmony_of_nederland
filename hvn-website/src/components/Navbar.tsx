@@ -113,6 +113,7 @@ export default function Navbar() {
                 alt="HvN Logo"
                 width={50}
                 height={50}
+                priority
                 style={{ 
                   borderRadius: '4px',
                   objectFit: 'contain'

@@ -42,11 +42,13 @@ export default function PastEventsPage({ events, pagination }: PastEventsPagePro
           overflow="hidden"
         >
           <Image
-            src="/images/event-hero.jpg"
+            src="/images/hero.jpg"
             alt="HvN Past Events"
-            layout="fill"
-            objectFit="cover"
-            objectPosition="center center"
+            fill
+            style={{
+              objectFit: 'cover',
+              objectPosition: 'center'
+            }}
             priority
             quality={90}
           />
