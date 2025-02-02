@@ -1,0 +1,62 @@
+{
+  "hero": {
+    "title": "Harmony of Netherlands",
+    "subtitle": "Discover and celebrate Dutch culture",
+    "cta": {
+      "events": "View Events",
+      "about": "About Us"
+    }
+  },
+  "features": {
+    "title": "What We Offer",
+    "subtitle": "Discover what Harmony of Netherlands can do for you",
+    "events": {
+      "title": "Cultural Events",
+      "description": "Experience authentic Dutch cultural events throughout the year"
+    },
+    "locations": {
+      "title": "Multiple Locations",
+      "description": "Events across various cities in the Netherlands"
+    },
+    "community": {
+      "title": "Strong Community",
+      "description": "Connect with people who share your passion for Dutch culture"
+    },
+    "culture": {
+      "title": "Cultural Heritage",
+      "description": "Preserve and celebrate Dutch traditions and customs"
+    }
+  },
+  "latestEvents": {
+    "title": "Upcoming Events",
+    "subtitle": "Join us at our next events",
+    "viewMore": "More Details",
+    "viewAll": "View All Events",
+    "events": {
+      "1": {
+        "title": "Amsterdam Cultural Festival",
+        "description": "A celebration of Dutch arts, music, and traditions in the heart of Amsterdam"
+      },
+      "2": {
+        "title": "Utrecht Heritage Day",
+        "description": "Explore the rich history and architecture of Utrecht"
+      },
+      "3": {
+        "title": "Rotterdam Modern Arts",
+        "description": "Contemporary Dutch culture and arts exhibition"
+      }
+    }
+  },
+  "pastEvents": {
+    "title": "Past Events",
+    "subtitle": "Take a look at our previous events",
+    "viewAll": "View All Past Events"
+  },
+  "cta": {
+    "title": "Ready to Join?",
+    "description": "Join our community and be part of the cultural journey",
+    "subtitle": "Join our community and celebrate Dutch culture",
+    "contact": "Contact Us",
+    "explore": "Explore Events"
+  }
+}

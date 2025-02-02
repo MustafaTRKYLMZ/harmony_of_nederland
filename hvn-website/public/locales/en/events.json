@@ -1,0 +1,49 @@
+{
+  "hero": {
+    "title": "Discover Our Events",
+    "subtitle": "Join us for unforgettable cultural experiences and celebrations",
+    "cta": {
+      "upcoming": "View Upcoming Events",
+      "calendar": "View Calendar"
+    }
+  },
+  "pageTitle": "Discover Our Events",
+  "filters": {
+    "city": "Filter by City",
+    "date": "Filter by Date",
+    "status": "Filter by Status"
+  },
+  "status": {
+    "upcoming": "Upcoming",
+    "ongoing": "Ongoing",
+    "past": "Past"
+  },
+  "subtitle": "Join our cultural events and celebrate Dutch culture",
+  "viewDetails": "View Details",
+  "notFound": {
+    "title": "Event Not Found",
+    "message": "The event you are looking for does not exist or has been removed.",
+    "backToEvents": "Back to Events"
+  },
+  "eventDetails": {
+    "date": "Date",
+    "location": "Location",
+    "price": "Price",
+    "capacity": "Capacity",
+    "availableTickets": "Available Tickets",
+    "soldOut": "Sold Out",
+    "buyTickets": "Buy Tickets",
+    "starts": "Starts",
+    "ends": "Ends",
+    "venue": "Venue"
+  },
+  "details": {
+    "location": "Location",
+    "ticketInfo": "Ticket Information",
+    "price": "Price",
+    "availableTickets": "Available Tickets",
+    "buyTickets": "Buy Tickets",
+    "soldOut": "Sold Out",
+    "share": "Share this Event"
+  }
+}

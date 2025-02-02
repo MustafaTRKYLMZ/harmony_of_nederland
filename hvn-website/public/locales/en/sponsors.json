@@ -1,0 +1,26 @@
+{
+  "title": "Our Sponsors",
+  "subtitle": "Supporting and growing together with our community",
+  "becomeSponsors": "Become a Sponsor",
+  
+  "tiers": {
+    "gold": {
+      "title": "Gold Sponsors",
+      "badge": "Gold Sponsor"
+    },
+    "silver": {
+      "title": "Silver Sponsors",
+      "badge": "Silver Sponsor"
+    },
+    "bronze": {
+      "title": "Bronze Sponsors",
+      "badge": "Bronze Sponsor"
+    }
+  },
+
+  "cta": {
+    "title": "Support Our Mission",
+    "description": "Join our community of sponsors and help us make a difference",
+    "button": "View Sponsorship Options"
+  }
+}

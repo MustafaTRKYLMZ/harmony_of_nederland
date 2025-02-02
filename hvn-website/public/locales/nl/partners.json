@@ -1,0 +1,23 @@
+{
+  "hero": {
+    "title": "Onze Partners",
+    "subtitle": "Samen werken aan een sterkere gemeenschap"
+  },
+  "title": "Onze Partners",
+  "subtitle": "Samen werken aan het versterken van de Nederlandse cultuur en gemeenschap",
+  "becomePartner": "Word Partner",
+  "visitWebsite": "Bezoek Website",
+  
+  "types": {
+    "cultural": "Culturele Partner",
+    "educational": "Educatieve Partner",
+    "commercial": "Commerciële Partner",
+    "nonprofit": "Non-Profit Partner"
+  },
+
+  "cta": {
+    "title": "Word Lid van Ons Partnernetwerk",
+    "description": "Samen kunnen we betekenisvolle impact creëren en onze gemeenschap versterken",
+    "button": "Neem Contact Op"
+  }
+}

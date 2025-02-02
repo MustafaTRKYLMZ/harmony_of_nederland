@@ -1,0 +1,11 @@
+{
+  "title": "Event Gallery",
+  "filters": {
+    "city": "Filter by City",
+    "year": "Filter by Year",
+    "allCities": "All Cities",
+    "allYears": "All Years"
+  },
+  "noImages": "No images found",
+  "imageAlt": "Event image from {{city}} {{year}}"
+}

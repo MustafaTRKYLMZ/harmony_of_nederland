@@ -1,0 +1,26 @@
+{
+  "title": "Onze Sponsors",
+  "subtitle": "Samen groeien met onze gemeenschap",
+  "becomeSponsors": "Word Sponsor",
+  
+  "tiers": {
+    "gold": {
+      "title": "Gouden Sponsors",
+      "badge": "Gouden Sponsor"
+    },
+    "silver": {
+      "title": "Zilveren Sponsors",
+      "badge": "Zilveren Sponsor"
+    },
+    "bronze": {
+      "title": "Bronzen Sponsors",
+      "badge": "Bronzen Sponsor"
+    }
+  },
+
+  "cta": {
+    "title": "Steun Onze Missie",
+    "description": "Word deel van onze sponsorgemeenschap en help ons verschil te maken",
+    "button": "Bekijk Sponsoropties"
+  }
+}

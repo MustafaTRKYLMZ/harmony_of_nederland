@@ -1,0 +1,97 @@
+{
+  "title": "Steun Onze Missie",
+  "subtitle": "Help ons de Nederlandse cultuur te vieren en te behouden door verschillende vormen van steun",
+  
+  "donate": {
+    "title": "Doe een Donatie",
+    "description": "Uw financiële steun helpt ons meer culturele evenementen te organiseren en meer gemeenschappen te bereiken",
+    "button": "Nu Doneren"
+  },
+  
+  "volunteer": {
+    "title": "Word Vrijwilliger",
+    "description": "Deel uw tijd en vaardigheden om onze evenementen succesvol en impactvol te maken",
+    "button": "Word Vrijwilliger"
+  },
+  
+  "partner": {
+    "title": "Word Partner",
+    "description": "Creëer betekenisvolle partnerschappen die zowel onze organisaties als de gemeenschap ten goede komen",
+    "button": "Word Partner"
+  },
+  
+  "sponsorship": {
+    "title": "Sponsorpakketten",
+    "popular": "Meest Gekozen",
+    "select": "Kies Pakket",
+    
+    "bronze": {
+      "name": "Bronzen Sponsor",
+      "benefit1": "Logo op evenementmaterialen",
+      "benefit2": "2 VIP-kaarten voor evenementen",
+      "benefit3": "Erkenning op sociale media"
+    },
+    
+    "silver": {
+      "name": "Zilveren Sponsor",
+      "benefit1": "Logo op evenementmaterialen",
+      "benefit2": "4 VIP-kaarten voor evenementen",
+      "benefit3": "Erkenning op sociale media",
+      "benefit4": "Standruimte op festivals"
+    },
+    
+    "gold": {
+      "name": "Gouden Sponsor",
+      "benefit1": "Premium logo plaatsing",
+      "benefit2": "8 VIP-kaarten voor evenementen",
+      "benefit3": "Uitgelichte sociale media content",
+      "benefit4": "Premium standlocatie",
+      "benefit5": "Spreekgelegenheid"
+    }
+  },
+  
+  "contact": {
+    "title": "Laten We Bespreken Hoe U Kunt Helpen",
+    "description": "Heeft u vragen over het steunen van ons? We horen graag van u en bespreken de mogelijkheden.",
+    "button": "Neem Contact Op"
+  },
+
+  "form": {
+    "donate": {
+      "title": "Doe een Donatie",
+      "amount": "Donatiebedrag (€)",
+      "amountPlaceholder": "Voer bedrag in"
+    },
+    "volunteer": {
+      "title": "Vrijwilligersaanmelding",
+      "availability": "Beschikbaarheid",
+      "selectAvailability": "Selecteer uw beschikbaarheid",
+      "weekends": "Weekenden",
+      "weekdays": "Doordeweeks",
+      "both": "Zowel doordeweeks als weekenden",
+      "skills": "Vaardigheden & Ervaring",
+      "skillsPlaceholder": "Vertel ons over uw vaardigheden en relevante ervaring"
+    },
+    "partner": {
+      "title": "Partnerschapsaanvraag"
+    },
+    "sponsor": {
+      "title": "Sponsoraanvraag"
+    },
+    "name": "Volledige Naam",
+    "namePlaceholder": "Voer uw volledige naam in",
+    "email": "E-mailadres",
+    "emailPlaceholder": "Voer uw e-mailadres in",
+    "phone": "Telefoonnummer",
+    "phonePlaceholder": "Voer uw telefoonnummer in",
+    "organization": "Organisatienaam",
+    "organizationPlaceholder": "Voer uw organisatienaam in",
+    "message": "Aanvullend Bericht",
+    "messagePlaceholder": "Eventuele aanvullende informatie die u wilt delen",
+    "submit": "Versturen",
+    "success": "Bedankt!",
+    "successMessage": "We hebben uw aanmelding ontvangen en nemen binnenkort contact met u op.",
+    "error": "Fout",
+    "errorMessage": "Er is iets misgegaan. Probeer het later opnieuw."
+  }
+}

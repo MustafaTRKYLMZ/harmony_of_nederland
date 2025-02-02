@@ -1,0 +1,96 @@
+{
+  "nav": {
+    "home": "Home",
+    "events": "Events",
+    "upcomingEvents": "Upcoming Events",
+    "upcomingEventsDesc": "See what's coming up next",
+    "pastEvents": "Past Events",
+    "pastEventsDesc": "Look back at our previous events",
+
+    "about": "About",
+    "aboutUs": "About Us",
+    "aboutUsDesc": "Learn more about our organization",
+    "community": "Community",
+    "partners": "Partners",
+    "partnersDesc": "Our valued partners",
+    "sponsors": "Sponsors",
+    "sponsorsDesc": "Organizations supporting us",
+    "supportUs": "Support Us",
+    "supportUsDesc": "Help us make a difference",
+    "contact": "Contact",
+    "support": "Support Us"
+  },
+  "hero": {
+    "title": "Harmony of Netherlands",
+    "subtitle": "Celebrating Dutch Culture Through Events"
+  },
+  "events": {
+    "upcoming": "Upcoming",
+    "buyTicket": "Buy Ticket",
+    "past": "Past",
+    "details": "View Details",
+    "imageNotAvailable": "Image not available",
+    "noEvents": "No events scheduled yet",
+    "checkBack": "Check back soon for upcoming events!",
+    "register": "Register Now",
+    "free": "Free",
+    "location": "Location",
+    "date": "Date",
+    "time": "Time",
+    "capacity": "Capacity",
+    "requirements": "Requirements",
+    "content": "Event Details",
+    "media": "Event Media",
+    "gallery": "Event Gallery",
+    "photo": "Photo",
+    "hero": {
+      "title": "Discover Our Events",
+      "subtitle": "Join us in celebrating Dutch culture through unique experiences"
+    }
+  },
+  "partners": {
+    "title": "Our Partners",
+    "hero": {
+      "title": "Our Partners",
+      "subtitle": "Working together to strengthen our community"
+    }
+  },
+
+  "support": {
+    "title": "Support Us",
+    "oneTime": "One-time Donation",
+    "monthly": "Monthly Support",
+    "yearly": "Yearly Support",
+    "donate": "Donate",
+    "subscribe": "Subscribe"
+  },
+  "footer": {
+    "description": "Celebrating Dutch culture and fostering community connections",
+    "quickLinks": "Quick Links",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Policy",
+    "followUs": "Follow Us",
+    "contact": "Contact",
+    "address": "Address",
+    "newsletter": "Newsletter",
+    "subscribe": "Subscribe",
+    "emailPlaceholder": "Enter your email",
+    "rights": "All rights reserved",
+    "madeWith": "Made with ",
+    "inNetherlands": "in the Netherlands"
+  },
+  "languages": {
+    "en": "English",
+    "nl": "Nederlands"
+  },
+  "common": {
+    "readMore": "Read More",
+    "viewAll": "View All",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "notFound": "Not Found",
+    "retry": "Try again"
+  }
+}
